@@ -16,9 +16,9 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/bz4X_5bmuksAAAAd/similarweb-data.gif" width="300"/>
-  <img src="https://media1.tenor.com/m/arpBaa2vp7MAAAAd/spark-light-it-up.gif" width="300"/>
-  <img src="https://media1.tenor.com/m/q0mnvCixolcAAAAd/similarweb-luck.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/bz4X_5bmuksAAAAd/similarweb-data.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/arpBaa2vp7MAAAAd/spark-light-it-up.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/q0mnvCixolcAAAAd/similarweb-luck.gif" width="200"/>
 </p>
 
 ###### Адрес электронной почты преподавателя: streltsovas@miigaik.ru

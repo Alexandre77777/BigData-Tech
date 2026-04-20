@@ -13,8 +13,10 @@
 | 5 |23.03.2026| [**Теория №5. Применение классических методов машинного обучения в среде Apache Spark**](https://colab.research.google.com/drive/16UXOI9nH0A7sX6RfwdV4VHF5-8bfh3Ku?usp=sharing) |[Практическая работа №2](https://colab.research.google.com/drive/1HzvElmn_BpyslbGYCerNbjy11o064c4o?usp=sharing)|
 | 6 | 06.04.2026 | [**Теория №6. Применение методов глубокого обучения в среде Apache Spark**](https://colab.research.google.com/drive/1sOx30Q0tfPkd7Xy7ojoQTzxBGDivE8fD?usp=sharing) | [Практическая работа №3](https://colab.research.google.com/drive/1sOx30Q0tfPkd7Xy7ojoQTzxBGDivE8fD#scrollTo=tb7run2kwbnC) |
 | 7 | 13.04.2026 | [**Теория №7. Распределённая обработка больших пространственных данных в среде Apache Sedona. Часть 1**](https://colab.research.google.com/drive/16n3ukVFHtc2rlU3jpOJ18d4n3Dcl_Hqj?usp=sharing) | [Практическая работа №4](https://colab.research.google.com/drive/16n3ukVFHtc2rlU3jpOJ18d4n3Dcl_Hqj#scrollTo=xxg0p4_Z27x6) |
-| | |  | [Практическая работа №5](https://colab.research.google.com/drive/16kFA2RFcFiDUm6ZM1W2_8dFmDmzkD3d5?usp=sharing)|
-| 8 | 20.04.2026 | [**Теория №8. Распределённая обработка больших пространственных данных в среде Apache Sedona. Часть 2**](https://colab.research.google.com/drive/1a2ZVQK2j4kK0G2paFAgwllgX3lHJFOxs?usp=sharing) |[Практическая работа №6](https://colab.research.google.com/drive/1gHTh0QzAa3p-Uqbsezqk-FpOUThz17R4?usp=sharing)|
+| 8 | 20.04.2026 | [**Теория №8. Распределённая обработка больших пространственных данных в среде Apache Sedona. Часть 2**](https://colab.research.google.com/drive/1a2ZVQK2j4kK0G2paFAgwllgX3lHJFOxs?usp=sharing) |[Практическая работа №5](https://colab.research.google.com/drive/16kFA2RFcFiDUm6ZM1W2_8dFmDmzkD3d5?usp=sharing)|
+| | |  | [Практическая работа №6](https://colab.research.google.com/drive/1gHTh0QzAa3p-Uqbsezqk-FpOUThz17R4?usp=sharing)|
+
+
 
 
 <p align="center">
